@@ -1,4 +1,4 @@
-# docker cleanup
+# docker cleanup with python
 Thanks https://github.com/HardySimpson/docker-cleanup
 
 a tiny all in one shell, which removes:

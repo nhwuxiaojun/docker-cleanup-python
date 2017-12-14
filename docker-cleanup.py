@@ -3,6 +3,7 @@
 
 >/tmp/run_image_ids.$$
 
+
 DOCKER_BIN=/usr/bin/docker
 LOG=/var/log/docker-cleanup.log
 

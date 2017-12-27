@@ -16,7 +16,7 @@ intend to run as crontab job
 ---
 
 # docker cleanup
-# 感谢https://github.com/HardySimpson/docker-cleanup shell
+感谢https://github.com/HardySimpson/docker-cleanup shell
 
 这是一个简单的docker 镜像清理脚本，会删除:
 
@@ -25,5 +25,5 @@ intend to run as crontab job
 ## 特性
 - 找出不被使用的image,不包括没有运行的容器占用的image，删除其ID
 
-###任何问题联系nhwuxiaojun@126.com
+### 任何问题联系nhwuxiaojun@126.com
 
